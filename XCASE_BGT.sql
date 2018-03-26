@@ -1,3 +1,5 @@
+# Exploratory analysis on Skills gap in the East Coast
+
 USE BGT_CLASS;
 # this states that are represented
 SELECT distinct State_ID FROM States;
